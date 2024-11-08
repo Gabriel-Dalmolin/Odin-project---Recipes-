@@ -1,2 +1,2 @@
-# Odin-project---Recipes-
-The first project from the Odin project
+# Odin-project-Recipes
+The first project from the Odin project, a simple recipes site using HTML
